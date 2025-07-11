@@ -42,7 +42,7 @@ This project explores short-term rental investment opportunities in Madrid, Spai
 
 ### 📌 Geospatial & Investment Mapping
 
-- District-level analysis using GeoJSON for mapping
+- District-level mapping based on latitude/longitude coordinates (GeoJSON not required)
 - Distance calculations from Puerta del Sol (city center proxy)
 - Identification of high-yield zones and undervalued areas
 
@@ -77,7 +77,6 @@ This project explores short-term rental investment opportunities in Madrid, Spai
 
 - [Inside Airbnb - Madrid](http://insideairbnb.com/get-the-data.html)
 - [Idealista Housing Market Reports (Madrid)](https://www.idealista.com/sala-de-prensa/informes-precio-vivienda/venta/madrid-comunidad/madrid-provincia/madrid/)
-- GeoJSON: Official Madrid district boundaries
 
 *All datasets are processed and merged into a local SQLite database for efficient querying and analysis.*
 
@@ -109,4 +108,4 @@ jupyter notebook
 
 ## ⭐ If you like this project
 
-Give it a star ⭐ and check out the full [Hashnode blog post](https://yourusername.hashnode.dev/real-estate-analysis-madrid)!
+Give it a star ⭐ and check out the full [Hashnode blog post](https://tayfur-ac.hashnode.dev//madrid-real-estate-investment-analysis)!
